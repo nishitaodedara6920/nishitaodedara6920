@@ -1,16 +1,18 @@
-## Hi there 👋
+# Nishita's GitHub Profile
 
-<!--
-**nishitaodedara6920/nishitaodedara6920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://your-image-link.com/banner.png)
 
-Here are some ideas to get you started:
+## About Me
+🎓 Recent graduate in IT  
+🌍 Based in Canada  
+💻 Interested in web development and data analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** JavaScript, SQL, Python
+- **Frameworks:** Angular, React
+- **Tools:** Git, Jira, Power BI
+
+![Work in Progress](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishita-blue)](https://www.linkedin.com/in/your-link)
